@@ -1,4 +1,4 @@
-# Personal Expense Tracker with Data Visualization
+﻿# Personal Expense Tracker with Data Visualization
 
 A Python data-analysis project that turns raw, messy expense records into clean data, budget alerts, six charts, and a plain-English financial report.
 
@@ -97,7 +97,7 @@ Personal-Expense-Tracker-Visualization/
 
 ```bash
 # 1. Clone
-git clone https://github.com/<your-username>/Personal-Expense-Tracker-Visualization.git
+git clone https://github.com/SNischayPrasad/Personal-Expense-Tracker-Visualization.git
 cd Personal-Expense-Tracker-Visualization
 
 # 2. Create & activate a virtual environment
@@ -151,6 +151,12 @@ Full report: [`reports/expense_summary_report.txt`](reports/expense_summary_repo
 
 ## Screenshots
 
+### Raw Dataset (before cleaning, problem rows in red)
+![Dataset preview](images/screenshots/02_dataset_preview.png)
+
+### Terminal Output
+![Terminal output](images/screenshots/03_terminal_output.png)
+
 ### Category-wise Spending
 ![Category spending](images/01_category_spending_bar.png)
 
@@ -196,6 +202,6 @@ Full report: [`reports/expense_summary_report.txt`](reports/expense_summary_repo
 
 ## Author
 
-**Your Name** · [LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+**Sadhanala Nischay Prasad** · [LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/SNischayPrasad)
 
 *This project uses synthetic data for learning purposes. No real financial data is included.*
