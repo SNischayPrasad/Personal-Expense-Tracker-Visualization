@@ -1,0 +1,7 @@
+payment_method,total,transactions,share_pct
+UPI,69586.0,187,36.49
+Net Banking,45059.0,14,23.63
+Credit Card,34078.0,57,17.87
+Debit Card,23535.0,34,12.34
+Cash,16607.0,67,8.71
+Unknown,1848.0,5,0.97

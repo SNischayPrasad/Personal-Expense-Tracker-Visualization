@@ -1,0 +1,61 @@
+month,category,budget,actual,difference,over_budget
+2026-01,Rent,8000,8000.0,0.0,False
+2026-01,Food & Dining,4500,3033.0,1467.0,False
+2026-01,Groceries,3000,3207.0,-207.0,True
+2026-01,Transport,1500,1628.0,-128.0,True
+2026-01,Shopping,2500,0.0,2500.0,False
+2026-01,Entertainment,1500,1533.0,-33.0,True
+2026-01,Utilities,2000,1558.0,442.0,False
+2026-01,Education,1500,556.0,944.0,False
+2026-01,Health,1000,796.0,204.0,False
+2026-01,Subscriptions,500,418.0,82.0,False
+2026-02,Rent,8000,8000.0,0.0,False
+2026-02,Food & Dining,4500,4251.0,249.0,False
+2026-02,Groceries,3000,2170.0,830.0,False
+2026-02,Transport,1500,2039.0,-539.0,True
+2026-02,Shopping,2500,7451.0,-4951.0,True
+2026-02,Entertainment,1500,1169.0,331.0,False
+2026-02,Utilities,2000,2145.0,-145.0,True
+2026-02,Education,1500,1644.0,-144.0,True
+2026-02,Health,1000,2511.0,-1511.0,True
+2026-02,Subscriptions,500,418.0,82.0,False
+2026-03,Rent,8000,8000.0,0.0,False
+2026-03,Food & Dining,4500,6848.0,-2348.0,True
+2026-03,Groceries,3000,7444.0,-4444.0,True
+2026-03,Transport,1500,2345.0,-845.0,True
+2026-03,Shopping,2500,6318.0,-3818.0,True
+2026-03,Entertainment,1500,2630.0,-1130.0,True
+2026-03,Utilities,2000,1712.0,288.0,False
+2026-03,Education,1500,402.0,1098.0,False
+2026-03,Health,1000,397.0,603.0,False
+2026-03,Subscriptions,500,418.0,82.0,False
+2026-04,Rent,8000,8000.0,0.0,False
+2026-04,Food & Dining,4500,5662.0,-1162.0,True
+2026-04,Groceries,3000,4567.0,-1567.0,True
+2026-04,Transport,1500,1491.0,9.0,False
+2026-04,Shopping,2500,2738.0,-238.0,True
+2026-04,Entertainment,1500,2656.0,-1156.0,True
+2026-04,Utilities,2000,2001.0,-1.0,True
+2026-04,Education,1500,5448.0,-3948.0,True
+2026-04,Health,1000,1832.0,-832.0,True
+2026-04,Subscriptions,500,418.0,82.0,False
+2026-05,Rent,8000,8000.0,0.0,False
+2026-05,Food & Dining,4500,4483.0,17.0,False
+2026-05,Groceries,3000,4064.0,-1064.0,True
+2026-05,Transport,1500,4106.0,-2606.0,True
+2026-05,Shopping,2500,5602.0,-3102.0,True
+2026-05,Entertainment,1500,6090.0,-4590.0,True
+2026-05,Utilities,2000,1766.0,234.0,False
+2026-05,Education,1500,1163.0,337.0,False
+2026-05,Health,1000,3374.0,-2374.0,True
+2026-05,Subscriptions,500,418.0,82.0,False
+2026-06,Rent,8000,8000.0,0.0,False
+2026-06,Food & Dining,4500,6118.0,-1618.0,True
+2026-06,Groceries,3000,3230.0,-230.0,True
+2026-06,Transport,1500,875.0,625.0,False
+2026-06,Shopping,2500,2760.0,-260.0,True
+2026-06,Entertainment,1500,1416.0,84.0,False
+2026-06,Utilities,2000,1772.0,228.0,False
+2026-06,Education,1500,2592.0,-1092.0,True
+2026-06,Health,1000,612.0,388.0,False
+2026-06,Subscriptions,500,418.0,82.0,False

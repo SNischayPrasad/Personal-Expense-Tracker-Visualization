@@ -1,0 +1,365 @@
+date,category,amount,payment_method,description,month,month_name,day_of_week,is_weekend
+2026-01-01,Groceries,397.0,Cash,BigBasket order,2026-01,Jan 2026,Thursday,False
+2026-01-01,Rent,8000.0,Net Banking,Monthly room rent,2026-01,Jan 2026,Thursday,False
+2026-01-02,Transport,102.0,Cash,Ola ride,2026-01,Jan 2026,Friday,False
+2026-01-02,Transport,35.0,Cash,Auto rickshaw,2026-01,Jan 2026,Friday,False
+2026-01-02,Entertainment,645.0,UPI,Gaming top-up,2026-01,Jan 2026,Friday,False
+2026-01-04,Education,556.0,Debit Card,Exam fee,2026-01,Jan 2026,Sunday,True
+2026-01-04,Groceries,252.0,UPI,BigBasket order,2026-01,Jan 2026,Sunday,True
+2026-01-05,Groceries,766.0,Credit Card,Milk and bread,2026-01,Jan 2026,Monday,False
+2026-01-05,Subscriptions,119.0,Credit Card,Spotify Premium,2026-01,Jan 2026,Monday,False
+2026-01-06,Food & Dining,252.0,UPI,Snacks,2026-01,Jan 2026,Tuesday,False
+2026-01-06,Food & Dining,284.0,Debit Card,Swiggy order,2026-01,Jan 2026,Tuesday,False
+2026-01-07,Utilities,660.0,UPI,Electricity bill,2026-01,Jan 2026,Wednesday,False
+2026-01-09,Transport,90.0,UPI,Uber ride,2026-01,Jan 2026,Friday,False
+2026-01-09,Transport,166.0,UPI,Ola ride,2026-01,Jan 2026,Friday,False
+2026-01-10,Subscriptions,299.0,Credit Card,Netflix plan,2026-01,Jan 2026,Saturday,True
+2026-01-10,Entertainment,264.0,UPI,Concert ticket,2026-01,Jan 2026,Saturday,True
+2026-01-11,Transport,148.0,Cash,Petrol,2026-01,Jan 2026,Sunday,True
+2026-01-12,Utilities,599.0,Net Banking,Wi-Fi bill,2026-01,Jan 2026,Monday,False
+2026-01-12,Groceries,229.0,UPI,Blinkit order,2026-01,Jan 2026,Monday,False
+2026-01-13,Food & Dining,235.0,UPI,Swiggy order,2026-01,Jan 2026,Tuesday,False
+2026-01-13,Food & Dining,77.0,Cash,Zomato order,2026-01,Jan 2026,Tuesday,False
+2026-01-14,Health,796.0,Credit Card,Lab test,2026-01,Jan 2026,Wednesday,False
+2026-01-15,Utilities,299.0,Net Banking,Mobile recharge,2026-01,Jan 2026,Thursday,False
+2026-01-15,Food & Dining,320.0,UPI,Dinner outside,2026-01,Jan 2026,Thursday,False
+2026-01-16,Food & Dining,306.0,Credit Card,Swiggy order,2026-01,Jan 2026,Friday,False
+2026-01-17,Food & Dining,223.0,UPI,Dinner outside,2026-01,Jan 2026,Saturday,True
+2026-01-17,Transport,59.0,Cash,Petrol,2026-01,Jan 2026,Saturday,True
+2026-01-17,Food & Dining,85.0,UPI,Coffee with friends,2026-01,Jan 2026,Saturday,True
+2026-01-17,Food & Dining,169.0,UPI,Swiggy order,2026-01,Jan 2026,Saturday,True
+2026-01-18,Groceries,451.0,UPI,Vegetables and fruits,2026-01,Jan 2026,Sunday,True
+2026-01-18,Groceries,314.0,UPI,Milk and bread,2026-01,Jan 2026,Sunday,True
+2026-01-18,Groceries,493.0,Cash,Weekly groceries,2026-01,Jan 2026,Sunday,True
+2026-01-19,Transport,45.0,Credit Card,Bus ticket,2026-01,Jan 2026,Monday,False
+2026-01-20,Transport,197.0,UPI,Ola ride,2026-01,Jan 2026,Tuesday,False
+2026-01-21,Transport,105.0,Cash,Petrol,2026-01,Jan 2026,Wednesday,False
+2026-01-22,Food & Dining,175.0,Cash,Swiggy order,2026-01,Jan 2026,Thursday,False
+2026-01-22,Entertainment,624.0,Credit Card,Gaming top-up,2026-01,Jan 2026,Thursday,False
+2026-01-22,Groceries,305.0,Cash,Weekly groceries,2026-01,Jan 2026,Thursday,False
+2026-01-23,Transport,172.0,UPI,Petrol,2026-01,Jan 2026,Friday,False
+2026-01-25,Food & Dining,298.0,UPI,Snacks,2026-01,Jan 2026,Sunday,True
+2026-01-25,Transport,221.0,UPI,Auto rickshaw,2026-01,Jan 2026,Sunday,True
+2026-01-25,Food & Dining,281.0,Cash,Coffee with friends,2026-01,Jan 2026,Sunday,True
+2026-01-28,Transport,48.0,UPI,Ola ride,2026-01,Jan 2026,Wednesday,False
+2026-01-29,Food & Dining,328.0,UPI,Lunch at canteen,2026-01,Jan 2026,Thursday,False
+2026-01-30,Transport,240.0,UPI,Petrol,2026-01,Jan 2026,Friday,False
+2026-02-01,Food & Dining,267.0,Credit Card,Coffee with friends,2026-02,Feb 2026,Sunday,True
+2026-02-01,Transport,103.0,UPI,Petrol,2026-02,Feb 2026,Sunday,True
+2026-02-01,Groceries,526.0,Cash,Vegetables and fruits,2026-02,Feb 2026,Sunday,True
+2026-02-01,Food & Dining,102.0,Credit Card,Snacks,2026-02,Feb 2026,Sunday,True
+2026-02-01,Transport,198.0,UPI,Uber ride,2026-02,Feb 2026,Sunday,True
+2026-02-01,Rent,8000.0,Net Banking,Monthly room rent,2026-02,Feb 2026,Sunday,True
+2026-02-04,Shopping,714.0,UPI,Phone accessories,2026-02,Feb 2026,Wednesday,False
+2026-02-05,Food & Dining,79.0,UPI,Coffee with friends,2026-02,Feb 2026,Thursday,False
+2026-02-05,Subscriptions,119.0,Credit Card,Spotify Premium,2026-02,Feb 2026,Thursday,False
+2026-02-07,Transport,159.0,UPI,Metro card recharge,2026-02,Feb 2026,Saturday,True
+2026-02-07,Utilities,1247.0,UPI,Electricity bill,2026-02,Feb 2026,Saturday,True
+2026-02-08,Education,215.0,Net Banking,Online course,2026-02,Feb 2026,Sunday,True
+2026-02-08,Groceries,163.0,Credit Card,Weekly groceries,2026-02,Feb 2026,Sunday,True
+2026-02-08,Food & Dining,50.0,UPI,Coffee with friends,2026-02,Feb 2026,Sunday,True
+2026-02-08,Food & Dining,102.0,UPI,Dinner outside,2026-02,Feb 2026,Sunday,True
+2026-02-09,Groceries,460.0,Cash,Blinkit order,2026-02,Feb 2026,Monday,False
+2026-02-09,Food & Dining,138.0,UPI,No description,2026-02,Feb 2026,Monday,False
+2026-02-09,Food & Dining,169.0,UPI,Dinner outside,2026-02,Feb 2026,Monday,False
+2026-02-09,Food & Dining,214.0,UPI,Coffee with friends,2026-02,Feb 2026,Monday,False
+2026-02-09,Food & Dining,227.0,UPI,Snacks,2026-02,Feb 2026,Monday,False
+2026-02-09,Education,696.0,Debit Card,Coding bootcamp module,2026-02,Feb 2026,Monday,False
+2026-02-10,Transport,38.0,Cash,Ola ride,2026-02,Feb 2026,Tuesday,False
+2026-02-10,Transport,78.0,Cash,Metro card recharge,2026-02,Feb 2026,Tuesday,False
+2026-02-10,Education,263.0,Net Banking,Online course,2026-02,Feb 2026,Tuesday,False
+2026-02-10,Subscriptions,299.0,UPI,Netflix plan,2026-02,Feb 2026,Tuesday,False
+2026-02-11,Transport,211.0,UPI,Uber ride,2026-02,Feb 2026,Wednesday,False
+2026-02-11,Food & Dining,60.0,Debit Card,Snacks,2026-02,Feb 2026,Wednesday,False
+2026-02-11,Transport,136.0,UPI,Auto rickshaw,2026-02,Feb 2026,Wednesday,False
+2026-02-11,Transport,38.0,Debit Card,Auto rickshaw,2026-02,Feb 2026,Wednesday,False
+2026-02-11,Groceries,640.0,Credit Card,Milk and bread,2026-02,Feb 2026,Wednesday,False
+2026-02-12,Utilities,599.0,UPI,Wi-Fi bill,2026-02,Feb 2026,Thursday,False
+2026-02-12,Entertainment,570.0,UPI,Concert ticket,2026-02,Feb 2026,Thursday,False
+2026-02-12,Food & Dining,124.0,UPI,Tea and samosa,2026-02,Feb 2026,Thursday,False
+2026-02-13,Transport,132.0,Unknown,Metro card recharge,2026-02,Feb 2026,Friday,False
+2026-02-13,Transport,117.0,UPI,Ola ride,2026-02,Feb 2026,Friday,False
+2026-02-14,Transport,160.0,UPI,Metro card recharge,2026-02,Feb 2026,Saturday,True
+2026-02-14,Entertainment,491.0,UPI,Weekend outing,2026-02,Feb 2026,Saturday,True
+2026-02-15,Food & Dining,314.0,Cash,Dinner outside,2026-02,Feb 2026,Sunday,True
+2026-02-15,Shopping,393.0,Cash,Amazon order,2026-02,Feb 2026,Sunday,True
+2026-02-15,Food & Dining,292.0,Credit Card,Coffee with friends,2026-02,Feb 2026,Sunday,True
+2026-02-15,Utilities,299.0,Net Banking,Mobile recharge,2026-02,Feb 2026,Sunday,True
+2026-02-16,Entertainment,108.0,UPI,Concert ticket,2026-02,Feb 2026,Monday,False
+2026-02-16,Transport,59.0,Cash,Metro card recharge,2026-02,Feb 2026,Monday,False
+2026-02-17,Food & Dining,50.0,UPI,Tea and samosa,2026-02,Feb 2026,Tuesday,False
+2026-02-18,Shopping,1686.0,Credit Card,Phone accessories,2026-02,Feb 2026,Wednesday,False
+2026-02-18,Transport,191.0,UPI,Uber ride,2026-02,Feb 2026,Wednesday,False
+2026-02-20,Health,1800.0,Debit Card,Dentist visit,2026-02,Feb 2026,Friday,False
+2026-02-20,Food & Dining,208.0,UPI,Dinner outside,2026-02,Feb 2026,Friday,False
+2026-02-20,Food & Dining,234.0,Cash,Snacks,2026-02,Feb 2026,Friday,False
+2026-02-21,Transport,136.0,UPI,Bus ticket,2026-02,Feb 2026,Saturday,True
+2026-02-21,Education,470.0,Credit Card,Exam fee,2026-02,Feb 2026,Saturday,True
+2026-02-21,Food & Dining,309.0,UPI,Coffee with friends,2026-02,Feb 2026,Saturday,True
+2026-02-22,Groceries,381.0,UPI,BigBasket order,2026-02,Feb 2026,Sunday,True
+2026-02-22,Food & Dining,73.0,UPI,Lunch at canteen,2026-02,Feb 2026,Sunday,True
+2026-02-23,Food & Dining,150.0,UPI,Zomato order,2026-02,Feb 2026,Monday,False
+2026-02-23,Transport,84.0,UPI,Auto rickshaw,2026-02,Feb 2026,Monday,False
+2026-02-24,Transport,135.0,Cash,Uber ride,2026-02,Feb 2026,Tuesday,False
+2026-02-25,Food & Dining,179.0,Credit Card,Dinner outside,2026-02,Feb 2026,Wednesday,False
+2026-02-25,Shopping,1090.0,Debit Card,Shoes,2026-02,Feb 2026,Wednesday,False
+2026-02-26,Transport,21.0,Cash,Auto rickshaw,2026-02,Feb 2026,Thursday,False
+2026-02-26,Food & Dining,270.0,UPI,Lunch at canteen,2026-02,Feb 2026,Thursday,False
+2026-02-26,Food & Dining,129.0,UPI,Snacks,2026-02,Feb 2026,Thursday,False
+2026-02-26,Food & Dining,271.0,UPI,Lunch at canteen,2026-02,Feb 2026,Thursday,False
+2026-02-27,Transport,43.0,Unknown,Ola ride,2026-02,Feb 2026,Friday,False
+2026-02-27,Health,711.0,UPI,Lab test,2026-02,Feb 2026,Friday,False
+2026-02-28,Shopping,1785.0,UPI,Shoes,2026-02,Feb 2026,Saturday,True
+2026-02-28,Shopping,1783.0,Credit Card,Clothes,2026-02,Feb 2026,Saturday,True
+2026-02-28,Food & Dining,58.0,Credit Card,Coffee with friends,2026-02,Feb 2026,Saturday,True
+2026-02-28,Food & Dining,182.0,UPI,Dinner outside,2026-02,Feb 2026,Saturday,True
+2026-03-01,Rent,8000.0,Net Banking,Monthly room rent,2026-03,Mar 2026,Sunday,True
+2026-03-01,Groceries,192.0,UPI,Weekly groceries,2026-03,Mar 2026,Sunday,True
+2026-03-01,Entertainment,628.0,Debit Card,Concert ticket,2026-03,Mar 2026,Sunday,True
+2026-03-02,Food & Dining,238.0,UPI,Dinner outside,2026-03,Mar 2026,Monday,False
+2026-03-03,Groceries,604.0,UPI,Vegetables and fruits,2026-03,Mar 2026,Tuesday,False
+2026-03-03,Entertainment,588.0,Credit Card,Gaming top-up,2026-03,Mar 2026,Tuesday,False
+2026-03-03,Food & Dining,114.0,UPI,No description,2026-03,Mar 2026,Tuesday,False
+2026-03-03,Food & Dining,373.0,UPI,Zomato order,2026-03,Mar 2026,Tuesday,False
+2026-03-04,Transport,25.0,UPI,Auto rickshaw,2026-03,Mar 2026,Wednesday,False
+2026-03-04,Transport,283.0,Debit Card,Bus ticket,2026-03,Mar 2026,Wednesday,False
+2026-03-05,Food & Dining,90.0,UPI,Snacks,2026-03,Mar 2026,Thursday,False
+2026-03-05,Transport,153.0,Cash,Petrol,2026-03,Mar 2026,Thursday,False
+2026-03-05,Health,397.0,Credit Card,Lab test,2026-03,Mar 2026,Thursday,False
+2026-03-05,Subscriptions,119.0,Credit Card,Spotify Premium,2026-03,Mar 2026,Thursday,False
+2026-03-05,Groceries,717.0,Cash,Milk and bread,2026-03,Mar 2026,Thursday,False
+2026-03-05,Entertainment,207.0,Credit Card,Weekend outing,2026-03,Mar 2026,Thursday,False
+2026-03-06,Food & Dining,287.0,Debit Card,Lunch at canteen,2026-03,Mar 2026,Friday,False
+2026-03-06,Shopping,507.0,Debit Card,Stationery,2026-03,Mar 2026,Friday,False
+2026-03-06,Transport,235.0,Cash,Uber ride,2026-03,Mar 2026,Friday,False
+2026-03-07,Utilities,814.0,Net Banking,Electricity bill,2026-03,Mar 2026,Saturday,True
+2026-03-07,Groceries,738.0,UPI,Weekly groceries,2026-03,Mar 2026,Saturday,True
+2026-03-07,Food & Dining,268.0,Cash,Coffee with friends,2026-03,Mar 2026,Saturday,True
+2026-03-07,Food & Dining,365.0,Debit Card,Swiggy order,2026-03,Mar 2026,Saturday,True
+2026-03-07,Entertainment,395.0,Credit Card,Gaming top-up,2026-03,Mar 2026,Saturday,True
+2026-03-08,Food & Dining,302.0,Cash,Lunch at canteen,2026-03,Mar 2026,Sunday,True
+2026-03-08,Food & Dining,362.0,UPI,Dinner outside,2026-03,Mar 2026,Sunday,True
+2026-03-09,Food & Dining,251.0,Cash,Snacks,2026-03,Mar 2026,Monday,False
+2026-03-09,Transport,127.0,Cash,Bus ticket,2026-03,Mar 2026,Monday,False
+2026-03-10,Food & Dining,70.0,UPI,Coffee with friends,2026-03,Mar 2026,Tuesday,False
+2026-03-10,Subscriptions,299.0,UPI,Netflix plan,2026-03,Mar 2026,Tuesday,False
+2026-03-11,Food & Dining,388.0,Credit Card,Lunch at canteen,2026-03,Mar 2026,Wednesday,False
+2026-03-11,Groceries,377.0,Cash,Vegetables and fruits,2026-03,Mar 2026,Wednesday,False
+2026-03-12,Utilities,599.0,UPI,Wi-Fi bill,2026-03,Mar 2026,Thursday,False
+2026-03-12,Transport,179.0,Credit Card,Auto rickshaw,2026-03,Mar 2026,Thursday,False
+2026-03-12,Food & Dining,132.0,UPI,Swiggy order,2026-03,Mar 2026,Thursday,False
+2026-03-13,Shopping,2611.0,Debit Card,Clothes,2026-03,Mar 2026,Friday,False
+2026-03-13,Groceries,1030.0,Debit Card,Vegetables and fruits,2026-03,Mar 2026,Friday,False
+2026-03-14,Groceries,513.0,UPI,Blinkit order,2026-03,Mar 2026,Saturday,True
+2026-03-14,Shopping,3200.0,Credit Card,Holi festival shopping,2026-03,Mar 2026,Saturday,True
+2026-03-14,Food & Dining,61.0,UPI,Tea and samosa,2026-03,Mar 2026,Saturday,True
+2026-03-15,Utilities,299.0,UPI,Mobile recharge,2026-03,Mar 2026,Sunday,True
+2026-03-16,Food & Dining,86.0,UPI,Snacks,2026-03,Mar 2026,Monday,False
+2026-03-16,Transport,78.0,UPI,Metro card recharge,2026-03,Mar 2026,Monday,False
+2026-03-17,Food & Dining,86.0,Cash,Swiggy order,2026-03,Mar 2026,Tuesday,False
+2026-03-18,Food & Dining,161.0,UPI,Tea and samosa,2026-03,Mar 2026,Wednesday,False
+2026-03-18,Groceries,833.0,Credit Card,Weekly groceries,2026-03,Mar 2026,Wednesday,False
+2026-03-19,Food & Dining,378.0,UPI,Coffee with friends,2026-03,Mar 2026,Thursday,False
+2026-03-20,Food & Dining,57.0,UPI,Lunch at canteen,2026-03,Mar 2026,Friday,False
+2026-03-20,Food & Dining,95.0,Cash,Lunch at canteen,2026-03,Mar 2026,Friday,False
+2026-03-20,Food & Dining,57.0,UPI,Lunch at canteen,2026-03,Mar 2026,Friday,False
+2026-03-21,Transport,66.0,Cash,Petrol,2026-03,Mar 2026,Saturday,True
+2026-03-21,Transport,248.0,UPI,Auto rickshaw,2026-03,Mar 2026,Saturday,True
+2026-03-22,Transport,283.0,UPI,Bus ticket,2026-03,Mar 2026,Sunday,True
+2026-03-22,Food & Dining,194.0,UPI,Snacks,2026-03,Mar 2026,Sunday,True
+2026-03-22,Food & Dining,331.0,UPI,Snacks,2026-03,Mar 2026,Sunday,True
+2026-03-24,Food & Dining,305.0,Debit Card,Lunch at canteen,2026-03,Mar 2026,Tuesday,False
+2026-03-25,Food & Dining,400.0,UPI,Zomato order,2026-03,Mar 2026,Wednesday,False
+2026-03-25,Food & Dining,97.0,Debit Card,Lunch at canteen,2026-03,Mar 2026,Wednesday,False
+2026-03-25,Groceries,1027.0,UPI,Weekly groceries,2026-03,Mar 2026,Wednesday,False
+2026-03-26,Transport,169.0,UPI,Bus ticket,2026-03,Mar 2026,Thursday,False
+2026-03-26,Transport,244.0,UPI,Metro card recharge,2026-03,Mar 2026,Thursday,False
+2026-03-26,Food & Dining,258.0,UPI,Lunch at canteen,2026-03,Mar 2026,Thursday,False
+2026-03-26,Food & Dining,358.0,UPI,Dinner outside,2026-03,Mar 2026,Thursday,False
+2026-03-27,Groceries,490.0,UPI,BigBasket order,2026-03,Mar 2026,Friday,False
+2026-03-27,Food & Dining,289.0,UPI,Tea and samosa,2026-03,Mar 2026,Friday,False
+2026-03-27,Groceries,126.0,Credit Card,BigBasket order,2026-03,Mar 2026,Friday,False
+2026-03-27,Education,402.0,UPI,Coding bootcamp module,2026-03,Mar 2026,Friday,False
+2026-03-28,Groceries,797.0,Credit Card,Milk and bread,2026-03,Mar 2026,Saturday,True
+2026-03-28,Transport,255.0,UPI,Petrol,2026-03,Mar 2026,Saturday,True
+2026-03-29,Entertainment,812.0,Credit Card,Bowling with friends,2026-03,Mar 2026,Sunday,True
+2026-03-31,Food & Dining,395.0,UPI,Snacks,2026-03,Mar 2026,Tuesday,False
+2026-04-01,Food & Dining,71.0,Credit Card,Dinner outside,2026-04,Apr 2026,Wednesday,False
+2026-04-01,Food & Dining,162.0,UPI,Zomato order,2026-04,Apr 2026,Wednesday,False
+2026-04-01,Rent,8000.0,Net Banking,Monthly room rent,2026-04,Apr 2026,Wednesday,False
+2026-04-01,Transport,98.0,Cash,Metro card recharge,2026-04,Apr 2026,Wednesday,False
+2026-04-02,Food & Dining,202.0,UPI,Tea and samosa,2026-04,Apr 2026,Thursday,False
+2026-04-03,Groceries,867.0,Debit Card,BigBasket order,2026-04,Apr 2026,Friday,False
+2026-04-04,Food & Dining,277.0,Cash,Coffee with friends,2026-04,Apr 2026,Saturday,True
+2026-04-05,Food & Dining,119.0,UPI,Lunch at canteen,2026-04,Apr 2026,Sunday,True
+2026-04-05,Subscriptions,119.0,Debit Card,Spotify Premium,2026-04,Apr 2026,Sunday,True
+2026-04-05,Transport,189.0,UPI,Petrol,2026-04,Apr 2026,Sunday,True
+2026-04-05,Food & Dining,134.0,UPI,Zomato order,2026-04,Apr 2026,Sunday,True
+2026-04-06,Transport,198.0,UPI,Ola ride,2026-04,Apr 2026,Monday,False
+2026-04-07,Utilities,1103.0,Net Banking,Electricity bill,2026-04,Apr 2026,Tuesday,False
+2026-04-08,Food & Dining,302.0,UPI,Tea and samosa,2026-04,Apr 2026,Wednesday,False
+2026-04-09,Food & Dining,260.0,Cash,Dinner outside,2026-04,Apr 2026,Thursday,False
+2026-04-10,Food & Dining,116.0,UPI,Tea and samosa,2026-04,Apr 2026,Friday,False
+2026-04-10,Subscriptions,299.0,Debit Card,Netflix plan,2026-04,Apr 2026,Friday,False
+2026-04-11,Food & Dining,212.0,UPI,Swiggy order,2026-04,Apr 2026,Saturday,True
+2026-04-11,Food & Dining,229.0,UPI,Tea and samosa,2026-04,Apr 2026,Saturday,True
+2026-04-11,Food & Dining,77.0,Cash,Swiggy order,2026-04,Apr 2026,Saturday,True
+2026-04-11,Groceries,448.0,UPI,Vegetables and fruits,2026-04,Apr 2026,Saturday,True
+2026-04-11,Education,775.0,Unknown,Online course,2026-04,Apr 2026,Saturday,True
+2026-04-12,Utilities,599.0,Credit Card,Wi-Fi bill,2026-04,Apr 2026,Sunday,True
+2026-04-12,Health,833.0,Credit Card,Doctor visit,2026-04,Apr 2026,Sunday,True
+2026-04-13,Education,578.0,UPI,Coding bootcamp module,2026-04,Apr 2026,Monday,False
+2026-04-14,Transport,110.0,Cash,Ola ride,2026-04,Apr 2026,Tuesday,False
+2026-04-14,Groceries,203.0,UPI,Weekly groceries,2026-04,Apr 2026,Tuesday,False
+2026-04-14,Education,713.0,Credit Card,Books,2026-04,Apr 2026,Tuesday,False
+2026-04-14,Food & Dining,348.0,UPI,Tea and samosa,2026-04,Apr 2026,Tuesday,False
+2026-04-15,Groceries,860.0,UPI,Vegetables and fruits,2026-04,Apr 2026,Wednesday,False
+2026-04-15,Groceries,814.0,Credit Card,Weekly groceries,2026-04,Apr 2026,Wednesday,False
+2026-04-15,Food & Dining,250.0,Cash,Dinner outside,2026-04,Apr 2026,Wednesday,False
+2026-04-15,Utilities,299.0,UPI,Mobile recharge,2026-04,Apr 2026,Wednesday,False
+2026-04-16,Transport,186.0,UPI,Uber ride,2026-04,Apr 2026,Thursday,False
+2026-04-16,Entertainment,394.0,Debit Card,Concert ticket,2026-04,Apr 2026,Thursday,False
+2026-04-16,Education,613.0,Cash,Books,2026-04,Apr 2026,Thursday,False
+2026-04-17,Food & Dining,68.0,Debit Card,Zomato order,2026-04,Apr 2026,Friday,False
+2026-04-18,Food & Dining,247.0,UPI,Tea and samosa,2026-04,Apr 2026,Saturday,True
+2026-04-18,Food & Dining,101.0,Credit Card,Tea and samosa,2026-04,Apr 2026,Saturday,True
+2026-04-19,Food & Dining,249.0,Cash,Snacks,2026-04,Apr 2026,Sunday,True
+2026-04-20,Entertainment,527.0,UPI,Concert ticket,2026-04,Apr 2026,Monday,False
+2026-04-20,Transport,94.0,Cash,Auto rickshaw,2026-04,Apr 2026,Monday,False
+2026-04-20,Food & Dining,252.0,UPI,Coffee with friends,2026-04,Apr 2026,Monday,False
+2026-04-20,Education,1296.0,Debit Card,Coding bootcamp module,2026-04,Apr 2026,Monday,False
+2026-04-21,Entertainment,785.0,Credit Card,Weekend outing,2026-04,Apr 2026,Tuesday,False
+2026-04-21,Food & Dining,323.0,Cash,Coffee with friends,2026-04,Apr 2026,Tuesday,False
+2026-04-22,Food & Dining,222.0,UPI,Zomato order,2026-04,Apr 2026,Wednesday,False
+2026-04-22,Food & Dining,240.0,UPI,Snacks,2026-04,Apr 2026,Wednesday,False
+2026-04-23,Shopping,492.0,Credit Card,Shoes,2026-04,Apr 2026,Thursday,False
+2026-04-23,Food & Dining,144.0,Credit Card,Swiggy order,2026-04,Apr 2026,Thursday,False
+2026-04-24,Education,1473.0,UPI,Coding bootcamp module,2026-04,Apr 2026,Friday,False
+2026-04-24,Food & Dining,171.0,UPI,Lunch at canteen,2026-04,Apr 2026,Friday,False
+2026-04-25,Health,999.0,Debit Card,Gym supplements,2026-04,Apr 2026,Saturday,True
+2026-04-25,Groceries,501.0,Debit Card,BigBasket order,2026-04,Apr 2026,Saturday,True
+2026-04-25,Food & Dining,266.0,Cash,Zomato order,2026-04,Apr 2026,Saturday,True
+2026-04-25,Shopping,559.0,Debit Card,Clothes,2026-04,Apr 2026,Saturday,True
+2026-04-26,Shopping,1687.0,Debit Card,Flipkart order,2026-04,Apr 2026,Sunday,True
+2026-04-26,Transport,101.0,Cash,Auto rickshaw,2026-04,Apr 2026,Sunday,True
+2026-04-27,Entertainment,167.0,UPI,Gaming top-up,2026-04,Apr 2026,Monday,False
+2026-04-27,Groceries,154.0,UPI,Vegetables and fruits,2026-04,Apr 2026,Monday,False
+2026-04-27,Groceries,720.0,UPI,Weekly groceries,2026-04,Apr 2026,Monday,False
+2026-04-27,Transport,209.0,UPI,Metro card recharge,2026-04,Apr 2026,Monday,False
+2026-04-28,Food & Dining,269.0,UPI,Swiggy order,2026-04,Apr 2026,Tuesday,False
+2026-04-28,Food & Dining,108.0,UPI,Coffee with friends,2026-04,Apr 2026,Tuesday,False
+2026-04-28,Transport,136.0,Cash,Bus ticket,2026-04,Apr 2026,Tuesday,False
+2026-04-28,Transport,47.0,UPI,No description,2026-04,Apr 2026,Tuesday,False
+2026-04-30,Transport,123.0,UPI,Auto rickshaw,2026-04,Apr 2026,Thursday,False
+2026-04-30,Entertainment,783.0,Credit Card,Concert ticket,2026-04,Apr 2026,Thursday,False
+2026-04-30,Food & Dining,243.0,UPI,Swiggy order,2026-04,Apr 2026,Thursday,False
+2026-05-01,Food & Dining,357.0,Cash,Snacks,2026-05,May 2026,Friday,False
+2026-05-01,Rent,8000.0,Net Banking,Monthly room rent,2026-05,May 2026,Friday,False
+2026-05-01,Transport,141.0,UPI,Metro card recharge,2026-05,May 2026,Friday,False
+2026-05-02,Transport,77.0,Cash,Metro card recharge,2026-05,May 2026,Saturday,True
+2026-05-02,Groceries,1103.0,UPI,Milk and bread,2026-05,May 2026,Saturday,True
+2026-05-02,Food & Dining,138.0,Cash,Coffee with friends,2026-05,May 2026,Saturday,True
+2026-05-03,Transport,90.0,UPI,Uber ride,2026-05,May 2026,Sunday,True
+2026-05-03,Food & Dining,123.0,UPI,Swiggy order,2026-05,May 2026,Sunday,True
+2026-05-04,Food & Dining,410.0,Cash,Dinner outside,2026-05,May 2026,Monday,False
+2026-05-04,Food & Dining,196.0,UPI,Tea and samosa,2026-05,May 2026,Monday,False
+2026-05-05,Subscriptions,119.0,Credit Card,Spotify Premium,2026-05,May 2026,Tuesday,False
+2026-05-07,Utilities,868.0,Net Banking,Electricity bill,2026-05,May 2026,Thursday,False
+2026-05-08,Entertainment,816.0,Credit Card,Bowling with friends,2026-05,May 2026,Friday,False
+2026-05-09,Food & Dining,183.0,Cash,Coffee with friends,2026-05,May 2026,Saturday,True
+2026-05-10,Health,700.0,UPI,Doctor visit,2026-05,May 2026,Sunday,True
+2026-05-10,Subscriptions,299.0,Credit Card,Netflix plan,2026-05,May 2026,Sunday,True
+2026-05-10,Food & Dining,212.0,UPI,Tea and samosa,2026-05,May 2026,Sunday,True
+2026-05-12,Food & Dining,401.0,UPI,Dinner outside,2026-05,May 2026,Tuesday,False
+2026-05-12,Utilities,599.0,Unknown,Wi-Fi bill,2026-05,May 2026,Tuesday,False
+2026-05-13,Transport,303.0,Cash,Uber ride,2026-05,May 2026,Wednesday,False
+2026-05-14,Groceries,721.0,UPI,Vegetables and fruits,2026-05,May 2026,Thursday,False
+2026-05-15,Utilities,299.0,UPI,Mobile recharge,2026-05,May 2026,Friday,False
+2026-05-15,Food & Dining,205.0,UPI,Dinner outside,2026-05,May 2026,Friday,False
+2026-05-16,Food & Dining,279.0,Credit Card,Coffee with friends,2026-05,May 2026,Saturday,True
+2026-05-16,Shopping,3409.0,Credit Card,Amazon order,2026-05,May 2026,Saturday,True
+2026-05-17,Entertainment,4500.0,UPI,Goa trip with friends,2026-05,May 2026,Sunday,True
+2026-05-18,Transport,2600.0,Credit Card,Train tickets for trip,2026-05,May 2026,Monday,False
+2026-05-20,Groceries,136.0,Credit Card,Blinkit order,2026-05,May 2026,Wednesday,False
+2026-05-20,Transport,281.0,UPI,Ola ride,2026-05,May 2026,Wednesday,False
+2026-05-21,Groceries,688.0,Cash,Weekly groceries,2026-05,May 2026,Thursday,False
+2026-05-21,Food & Dining,117.0,Credit Card,Zomato order,2026-05,May 2026,Thursday,False
+2026-05-22,Transport,289.0,UPI,Petrol,2026-05,May 2026,Friday,False
+2026-05-23,Groceries,717.0,Cash,BigBasket order,2026-05,May 2026,Saturday,True
+2026-05-24,Food & Dining,372.0,Cash,Dinner outside,2026-05,May 2026,Sunday,True
+2026-05-24,Food & Dining,174.0,Cash,Lunch at canteen,2026-05,May 2026,Sunday,True
+2026-05-25,Transport,38.0,UPI,Petrol,2026-05,May 2026,Monday,False
+2026-05-25,Food & Dining,321.0,UPI,Lunch at canteen,2026-05,May 2026,Monday,False
+2026-05-26,Food & Dining,191.0,UPI,Coffee with friends,2026-05,May 2026,Tuesday,False
+2026-05-27,Groceries,167.0,UPI,Milk and bread,2026-05,May 2026,Wednesday,False
+2026-05-27,Transport,287.0,Debit Card,Uber ride,2026-05,May 2026,Wednesday,False
+2026-05-27,Health,1251.0,UPI,Pharmacy,2026-05,May 2026,Wednesday,False
+2026-05-27,Food & Dining,416.0,UPI,Dinner outside,2026-05,May 2026,Wednesday,False
+2026-05-28,Food & Dining,388.0,UPI,Snacks,2026-05,May 2026,Thursday,False
+2026-05-28,Education,1163.0,Debit Card,Exam fee,2026-05,May 2026,Thursday,False
+2026-05-29,Health,476.0,UPI,Gym supplements,2026-05,May 2026,Friday,False
+2026-05-30,Entertainment,774.0,Credit Card,Gaming top-up,2026-05,May 2026,Saturday,True
+2026-05-31,Health,947.0,UPI,Lab test,2026-05,May 2026,Sunday,True
+2026-05-31,Shopping,2193.0,Debit Card,Stationery,2026-05,May 2026,Sunday,True
+2026-05-31,Groceries,532.0,UPI,Weekly groceries,2026-05,May 2026,Sunday,True
+2026-06-01,Rent,8000.0,UPI,Monthly room rent,2026-06,Jun 2026,Monday,False
+2026-06-03,Food & Dining,190.0,Cash,Tea and samosa,2026-06,Jun 2026,Wednesday,False
+2026-06-04,Food & Dining,57.0,UPI,Tea and samosa,2026-06,Jun 2026,Thursday,False
+2026-06-05,Food & Dining,274.0,UPI,Dinner outside,2026-06,Jun 2026,Friday,False
+2026-06-05,Education,558.0,UPI,No description,2026-06,Jun 2026,Friday,False
+2026-06-05,Food & Dining,167.0,Cash,Snacks,2026-06,Jun 2026,Friday,False
+2026-06-05,Subscriptions,119.0,UPI,Spotify Premium,2026-06,Jun 2026,Friday,False
+2026-06-06,Groceries,269.0,Credit Card,Blinkit order,2026-06,Jun 2026,Saturday,True
+2026-06-06,Food & Dining,230.0,Debit Card,Zomato order,2026-06,Jun 2026,Saturday,True
+2026-06-07,Groceries,490.0,UPI,Weekly groceries,2026-06,Jun 2026,Sunday,True
+2026-06-07,Utilities,874.0,UPI,Electricity bill,2026-06,Jun 2026,Sunday,True
+2026-06-07,Groceries,851.0,UPI,Milk and bread,2026-06,Jun 2026,Sunday,True
+2026-06-08,Transport,69.0,Debit Card,Uber ride,2026-06,Jun 2026,Monday,False
+2026-06-10,Transport,95.0,Credit Card,Bus ticket,2026-06,Jun 2026,Wednesday,False
+2026-06-10,Subscriptions,299.0,Credit Card,Netflix plan,2026-06,Jun 2026,Wednesday,False
+2026-06-10,Groceries,580.0,Cash,BigBasket order,2026-06,Jun 2026,Wednesday,False
+2026-06-10,Food & Dining,280.0,UPI,Snacks,2026-06,Jun 2026,Wednesday,False
+2026-06-11,Shopping,1078.0,Credit Card,Phone accessories,2026-06,Jun 2026,Thursday,False
+2026-06-12,Utilities,599.0,Net Banking,Wi-Fi bill,2026-06,Jun 2026,Friday,False
+2026-06-13,Transport,57.0,UPI,Bus ticket,2026-06,Jun 2026,Saturday,True
+2026-06-13,Food & Dining,194.0,Cash,Snacks,2026-06,Jun 2026,Saturday,True
+2026-06-14,Transport,34.0,UPI,Auto rickshaw,2026-06,Jun 2026,Sunday,True
+2026-06-15,Food & Dining,109.0,Credit Card,Coffee with friends,2026-06,Jun 2026,Monday,False
+2026-06-15,Utilities,299.0,Unknown,Mobile recharge,2026-06,Jun 2026,Monday,False
+2026-06-15,Food & Dining,147.0,UPI,Coffee with friends,2026-06,Jun 2026,Monday,False
+2026-06-15,Food & Dining,144.0,UPI,Swiggy order,2026-06,Jun 2026,Monday,False
+2026-06-15,Food & Dining,118.0,UPI,Lunch at canteen,2026-06,Jun 2026,Monday,False
+2026-06-16,Transport,140.0,Cash,Uber ride,2026-06,Jun 2026,Tuesday,False
+2026-06-16,Shopping,1004.0,UPI,No description,2026-06,Jun 2026,Tuesday,False
+2026-06-16,Food & Dining,179.0,UPI,Coffee with friends,2026-06,Jun 2026,Tuesday,False
+2026-06-16,Health,612.0,Cash,Lab test,2026-06,Jun 2026,Tuesday,False
+2026-06-18,Entertainment,757.0,Credit Card,Movie tickets,2026-06,Jun 2026,Thursday,False
+2026-06-19,Food & Dining,217.0,Cash,Tea and samosa,2026-06,Jun 2026,Friday,False
+2026-06-20,Food & Dining,95.0,UPI,Dinner outside,2026-06,Jun 2026,Saturday,True
+2026-06-20,Food & Dining,284.0,Debit Card,Tea and samosa,2026-06,Jun 2026,Saturday,True
+2026-06-21,Shopping,678.0,Credit Card,Phone accessories,2026-06,Jun 2026,Sunday,True
+2026-06-22,Groceries,424.0,UPI,No description,2026-06,Jun 2026,Monday,False
+2026-06-22,Food & Dining,322.0,UPI,Lunch at canteen,2026-06,Jun 2026,Monday,False
+2026-06-23,Food & Dining,206.0,Cash,Snacks,2026-06,Jun 2026,Tuesday,False
+2026-06-23,Food & Dining,99.0,UPI,Snacks,2026-06,Jun 2026,Tuesday,False
+2026-06-23,Food & Dining,154.0,Credit Card,Snacks,2026-06,Jun 2026,Tuesday,False
+2026-06-24,Food & Dining,159.0,UPI,Snacks,2026-06,Jun 2026,Wednesday,False
+2026-06-25,Transport,184.0,UPI,Uber ride,2026-06,Jun 2026,Thursday,False
+2026-06-25,Food & Dining,93.0,UPI,Coffee with friends,2026-06,Jun 2026,Thursday,False
+2026-06-25,Food & Dining,310.0,UPI,Tea and samosa,2026-06,Jun 2026,Thursday,False
+2026-06-26,Education,630.0,UPI,Online course,2026-06,Jun 2026,Friday,False
+2026-06-26,Food & Dining,119.0,UPI,Swiggy order,2026-06,Jun 2026,Friday,False
+2026-06-27,Entertainment,659.0,UPI,Movie tickets,2026-06,Jun 2026,Saturday,True
+2026-06-27,Transport,47.0,Cash,Ola ride,2026-06,Jun 2026,Saturday,True
+2026-06-27,Food & Dining,293.0,UPI,Lunch at canteen,2026-06,Jun 2026,Saturday,True
+2026-06-28,Education,1404.0,Debit Card,Printouts,2026-06,Jun 2026,Sunday,True
+2026-06-28,Food & Dining,272.0,Cash,Lunch at canteen,2026-06,Jun 2026,Sunday,True
+2026-06-28,Food & Dining,270.0,Cash,No description,2026-06,Jun 2026,Sunday,True
+2026-06-28,Transport,82.0,UPI,Petrol,2026-06,Jun 2026,Sunday,True
+2026-06-28,Groceries,479.0,Debit Card,Vegetables and fruits,2026-06,Jun 2026,Sunday,True
+2026-06-28,Transport,167.0,UPI,Auto rickshaw,2026-06,Jun 2026,Sunday,True
+2026-06-29,Food & Dining,265.0,UPI,Swiggy order,2026-06,Jun 2026,Monday,False
+2026-06-29,Food & Dining,327.0,Cash,Snacks,2026-06,Jun 2026,Monday,False
+2026-06-29,Food & Dining,296.0,UPI,Coffee with friends,2026-06,Jun 2026,Monday,False
+2026-06-30,Groceries,137.0,UPI,Blinkit order,2026-06,Jun 2026,Tuesday,False
+2026-06-30,Food & Dining,248.0,UPI,Dinner outside,2026-06,Jun 2026,Tuesday,False

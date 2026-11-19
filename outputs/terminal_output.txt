@@ -1,0 +1,49 @@
+﻿
+============================================================
+  PERSONAL EXPENSE TRACKER WITH DATA VISUALIZATION
+============================================================
+[OK] Loaded 382 records from expenses_raw.csv
+[OK] Data cleaned: 382 -> 364 rows (18 removed)
+[..] Creating charts
+   saved images/01_category_spending_bar.png
+   saved images/02_monthly_spending_trend.png
+   saved images/03_payment_method_pie.png
+   saved images/04_daily_spending_trend.png
+   saved images/05_budget_vs_actual.png
+   saved images/06_category_month_heatmap.png
+[OK] 6 charts saved to images/
+[OK] Summary CSV files saved to outputs/
+[OK] Text report saved to reports/expense_summary_report.txt
+
+============================================================
+  QUICK SUMMARY
+============================================================
+Period              : 01 Jan 2026 - 30 Jun 2026
+Total spending      : Rs.190,713.00
+Average daily spend : Rs.1,053.66
+Highest category    : Rent (Rs.48,000.00)
+
+Monthly spending:
+  2026-01  Rs. 20,729.00   savings Rs.15,271.00
+  2026-02  Rs. 31,798.00   savings Rs. 4,202.00
+  2026-03  Rs. 36,514.00   savings Rs.  -514.00
+  2026-04  Rs. 34,813.00   savings Rs. 1,187.00
+  2026-05  Rs. 39,066.00   savings Rs.-3,066.00
+  2026-06  Rs. 27,793.00   savings Rs. 8,207.00
+
+============================================================
+  KEY INSIGHTS
+============================================================
+ 1. Total spending over 6 months was Rs.190,713 across 364 transactions.
+ 2. Highest spending category is Rent (Rs.48,000, 25.2% of total).
+ 3. Biggest controllable expense is Food & Dining (15.9% of total) - the best place to cut costs.
+ 4. Peak month was 2026-05 (Rs.39,066); lowest was 2026-01 (Rs.20,729).
+ 5. Average daily spending is Rs.1,054.
+ 6. Weekend days average Rs.1,438 vs Rs.899 on weekdays (+60%).
+ 7. UPI is the most used payment method (36.5% of money spent).
+ 8. Average savings rate is 11.7% of a Rs.36,000 monthly income.
+ 9. Budget exceeded 29 times; Groceries went over budget in 5 of 6 months.
+10. Overspending alert: spending exceeded income in 2026-03, 2026-05.
+
+Done! Check the images/, outputs/ and reports/ folders.
+
