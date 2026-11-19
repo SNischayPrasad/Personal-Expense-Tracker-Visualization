@@ -1,0 +1,383 @@
+date,category,amount,payment_method,description
+2026-05-14,Groceries,721,UPI,Vegetables and fruits
+2026-04-26,Shopping,1687,Debit Card,Flipkart order
+2026-04-14,Groceries,203,UPI,Weekly groceries
+2026-06-11,Shopping,1078,Credit Card,Phone accessories
+2026-02-05,Food & Dining,79,UPI,Coffee with friends
+2026-06-29,Food & Dining,296,UPI,Coffee with friends
+2026-01-18,Groceries,314,UPI,Milk and bread
+2026-02-27,Health,711,UPI,Lab test
+2026-06-30,Food & Dining,248,UPI,Dinner outside
+2026-04-22,Food & Dining,240,UPI,Snacks
+2026-06-27,entertainment,659,UPI,Movie tickets
+2026-02-28,Shopping,1785,UPI,Shoes
+2026-04-02,Food & Dining,202,UPI,Tea and samosa
+2026-05-17,Entertainment,4500,UPI,Goa trip with friends
+2026-02-26,Food & Dining,271,UPI,Lunch at canteen
+2026-03-25,Food & Dining,97,Debit Card,Lunch at canteen
+2026-03-12,utilities,599,UPI,Wi-Fi bill
+2026-06-26,Education,630,UPI,Online course
+2026-06-28,Food & Dining,270,Cash,
+2026-04-25,Health,999,Debit Card,Gym supplements
+2026-01-25,Transport,221,UPI,Auto rickshaw
+2026-01-22,Entertainment,624,Credit Card,Gaming top-up
+2026-01-06,Food & Dining,252,UPI,Snacks
+2026-02-18,Transport,191,UPI,Uber ride
+2026-01-10,Subscriptions,299,Credit Card,Netflix plan
+2026-02-05,Subscriptions,119,Credit Card,Spotify Premium
+2026-03-09,Food & Dining,251,Cash,Snacks
+2026-04-20,Education,1296,Debit Card,Coding bootcamp module
+2026-01-01,Rent,8000,Net Banking,Monthly room rent
+2026-04-24,food & dining,171,UPI,Lunch at canteen
+2026-02-25,Shopping,1090,Debit Card,Shoes
+2026-01-15,Utilities,299,Net Banking,Mobile recharge
+2026-06-10,Subscriptions,299,Credit Card,Netflix plan
+2026-02-11,Transport,211,UPI,Uber ride
+2026-03-06,Shopping,507,Debit Card,Stationery
+2026-06-28,Education,1404,Debit Card,Printouts
+2026-03-26,Food & Dining,358,UPI,Dinner outside
+2026-01-29,Food & Dining,328,UPI,Lunch at canteen
+2026-06-23,Food & Dining,154,Credit Card,Snacks
+2026-05-24,Food & Dining,372,Cash,Dinner outside
+2026-02-13,Transport,132,,Metro card recharge
+2026-02-27,Transport,43,,Ola ride
+2026-02-28,  Shopping ,1783,Credit Card,Clothes
+2026-03-14,Groceries,513,UPI,Blinkit order
+2026-03-07,Entertainment,395,Credit Card,Gaming top-up
+2026-01-13,  Food & Dining ,77,Cash,Zomato order
+2026-01-18,Groceries,451,UPI,Vegetables and fruits
+2026-02-11,Groceries,640,Credit Card,Milk and bread
+2026-02-16,Entertainment,108,UPI,Concert ticket
+2026-02-07,Utilities,1247,UPI,Electricity bill
+2026-01-17,Food & Dining,223,UPI,Dinner outside
+2026-02-10,Transport,38,Cash,Ola ride
+2026-06-05,Education,558,UPI,
+2026-05-29,Health,476,UPI,Gym supplements
+2026-03-03,Food & Dining,114,UPI,
+2026-05-15,Utilities,299,UPI,Mobile recharge
+2026-04-11,Education,775,,Online course
+2026-02-10,Education,263,Net Banking,Online course
+2026-01-04,Groceries,252,UPI,BigBasket order
+2026-03-25,Groceries,1027,UPI,Weekly groceries
+unknown,Shopping,1502,Credit Card,Phone accessories
+2026-04-26,Transport,101,Cash,Auto rickshaw
+2026-02-11,Food & Dining,60,Debit Card,Snacks
+2026-05-01,Food & Dining,357,Cash,Snacks
+2026-05-27,Groceries,167,UPI,Milk and bread
+2026-04-16,Education,613,Cash,Books
+2026-06-23,Food & Dining,99,UPI,Snacks
+2026-03-03,Groceries,604,UPI,Vegetables and fruits
+2026-06-05,Subscriptions,119,UPI,Spotify Premium
+2026-01-02,Transport,102,Cash,Ola ride
+2026-01-12,Utilities,599,Net Banking,Wi-Fi bill
+2026-03-07,Groceries,738,UPI,Weekly groceries
+2026-02-23,Food & Dining,150,UPI,Zomato order
+2026-03-20,food & dining,57,UPI,Lunch at canteen
+2026-02-09,Food & Dining,138,UPI,
+2026-04-20,Food & Dining,252,UPI,Coffee with friends
+2026-02-14,Entertainment,491,UPI,Weekend outing
+2026-03-18,Food & Dining,161,UPI,Tea and samosa
+2026-06-07,Utilities,874,UPI,Electricity bill
+2026-04-14,Transport,110,Cash,Ola ride
+2026-02-18,Shopping,1686,Credit Card,Phone accessories
+2026-04-20,Transport,94,Cash,Auto rickshaw
+2026-06-29,Food & Dining,327,Cash,Snacks
+2026-05-03,Transport,90,UPI,Uber ride
+2026-04-28,Food & Dining,269,UPI,Swiggy order
+2026-06-25,Transport,184,UPI,Uber ride
+2026-06-13,Education,-250,UPI,Online course
+2026-04-07,Utilities,1103,Net Banking,Electricity bill
+2026-02-11,  Transport ,38,Debit Card,Auto rickshaw
+2026-05-18,Transport,2600,Credit Card,Train tickets for trip
+2026-06-15,Utilities,299,,Mobile recharge
+2026-01-10,Entertainment,264,UPI,Concert ticket
+2026-02-09,Food & Dining,214,UPI,Coffee with friends
+2026-04-27,Entertainment,167,UPI,Gaming top-up
+2026-01-05,Subscriptions,119,Credit Card,Spotify Premium
+2026-01-12,Food & Dining,N/A,Debit Card,Dinner outside
+2026-04-28,Food & Dining,108,UPI,Coffee with friends
+2026-06-15,Food & Dining,109,Credit Card,Coffee with friends
+2026-06-13,Food & Dining,194,Cash,Snacks
+2026-02-21,Food & Dining,309,UPI,Coffee with friends
+2026-03-22,Food & Dining,194,UPI,Snacks
+2026-06-25,Food & Dining,310,UPI,Tea and samosa
+2026-06-28,Transport,82,UPI,Petrol
+2026-05-16,Food & Dining,279,Credit Card,Coffee with friends
+2026-02-08,Food & Dining,102,UPI,Dinner outside
+2026-02-12,Food & Dining,124,UPI,Tea and samosa
+2026-05-08,Entertainment,816,Credit Card,Bowling with friends
+2026-03-25,Food & Dining,400,UPI,Zomato order
+2026-04-23,Food & Dining,144,Credit Card,Swiggy order
+2026-03-10,Food & Dining,70,UPI,Coffee with friends
+2026-02-26,Food & Dining,270,UPI,Lunch at canteen
+2026-01-11,Transport,148,Cash,Petrol
+2026-03-22,Transport,283,UPI,Bus ticket
+2026-01-15,Food & Dining,320,UPI,Dinner outside
+2026-04-06,Transport,198,UPI,Ola ride
+2026-06-14,Transport,34,UPI,Auto rickshaw
+2026-03-07,Food & Dining,365,Debit Card,Swiggy order
+2026-03-05,Groceries,717,Cash,Milk and bread
+2026-04-18,Food & Dining,247,UPI,Tea and samosa
+2026-03-12,Transport,179,Credit Card,Auto rickshaw
+2026-04-22,Food & Dining,222,UPI,Zomato order
+2026-04-25,Food & Dining,266,Cash,Zomato order
+2026-01-10,Subscriptions,299,Credit Card,Netflix plan
+2026-05-28,Food & Dining,388,UPI,Snacks
+2026-05-07,Utilities,868,Net Banking,Electricity bill
+2026-06-15,  Food & Dining ,118,UPI,Lunch at canteen
+2026-03-20,Food & Dining,95,Cash,Lunch at canteen
+2026-05-27,Transport,287,Debit Card,Uber ride
+2026-03-01,Rent,8000,Net Banking,Monthly room rent
+2026-03-27,Groceries,490,UPI,BigBasket order
+2026-06-26,Food & Dining,119,UPI,Swiggy order
+2026-05-21,Food & Dining,117,Credit Card,Zomato order
+2026-03-17,Food & Dining,86,Cash,Swiggy order
+2026-06-27,Transport,47,Cash,Ola ride
+2026-01-21,Transport,105,Cash,Petrol
+2026-05-12,Food & Dining,401,UPI,Dinner outside
+2026-04-11,Food & Dining,212,UPI,Swiggy order
+2026-06-24,Food & Dining,159,UPI,Snacks
+2026-04-04,Food & Dining,277,Cash,Coffee with friends
+2026-02-08,Education,215,Net Banking,Online course
+2026-02-26,Food & Dining,129,UPI,Snacks
+2026-03-13,Groceries,1030,Debit Card,Vegetables and fruits
+2026-01-04,  Education ,556,Debit Card,Exam fee
+2026-05-10,Food & Dining,212,UPI,Tea and samosa
+2026-05-01,Transport,141,UPI,Metro card recharge
+2026-01-06,food & dining,284,Debit Card,Swiggy order
+2026-03-26,Food & Dining,258,UPI,Lunch at canteen
+2026-02-22,Food & Dining,73,UPI,Lunch at canteen
+2026-02-12,Utilities,599,UPI,Wi-Fi bill
+2026-04-01,Food & Dining,71,Credit Card,Dinner outside
+2026-04-16,Transport,186,UPI,Uber ride
+2026-04-03,Groceries,867,Debit Card,BigBasket order
+2026-05-15,Food & Dining,205,UPI,Dinner outside
+2026-03-14,Food & Dining,N/A,Cash,Snacks
+2026-05-25,food & dining,321,UPI,Lunch at canteen
+2026-02-15,Food & Dining,292,Credit Card,Coffee with friends
+2026-04-11,Food & Dining,77,Cash,Swiggy order
+2026-03-10,Subscriptions,299,UPI,Netflix plan
+2026-06-06,  Groceries ,269,Credit Card,Blinkit order
+2026-02-17,Food & Dining,50,UPI,Tea and samosa
+2026-02-10,Subscriptions,299,UPI,Netflix plan
+2026-03-03,Entertainment,588,Credit Card,Gaming top-up
+2026-02-20,Health,1800,Debit Card,Dentist visit
+2026-03-08,Food & Dining,362,UPI,Dinner outside
+2026-05-20,Groceries,136,Credit Card,Blinkit order
+2026-02-20,Food & Dining,-250,UPI,Swiggy order
+2026-04-15,Utilities,299,UPI,Mobile recharge
+2026-02-09,Groceries,460,Cash,Blinkit order
+2026-01-14,Health,796,Credit Card,Lab test
+2026-01-22,Groceries,305,Cash,Weekly groceries
+2026-03-08,Food & Dining,302,Cash,Lunch at canteen
+2026-03-02,Food & Dining,238,UPI,Dinner outside
+2026-02-09,Education,696,Debit Card,Coding bootcamp module
+2026-06-20,Food & Dining,95,UPI,Dinner outside
+2026-06-25,Food & Dining,93,UPI,Coffee with friends
+2026-06-10,Transport,95,Credit Card,Bus ticket
+2026-05-27,Food & Dining,416,UPI,Dinner outside
+2026-05-26,Food & Dining,191,UPI,Coffee with friends
+2026-03-03,Food & Dining,373,UPI,Zomato order
+2026-03-09,Transport,127,Cash,Bus ticket
+2026-05-02,Groceries,1103,UPI,Milk and bread
+2026-02-15,shopping,393,Cash,Amazon order
+2026-06-07,Groceries,851,UPI,Milk and bread
+2026-04-01,Transport,98,Cash,Metro card recharge
+2026-06-08,Transport,69,Debit Card,Uber ride
+2026-01-18,Groceries,314,UPI,Milk and bread
+2026-05-20,Transport,281,UPI,Ola ride
+2026-03-27,Food & Dining,289,UPI,Tea and samosa
+2026-06-06,Food & Dining,230,Debit Card,Zomato order
+2026-06-01,Rent,8000,UPI,Monthly room rent
+2026-04-05,Food & Dining,119,UPI,Lunch at canteen
+2026-06-04,Food & Dining,57,UPI,Tea and samosa
+2026-03-05,Transport,153,Cash,Petrol
+2026-01-22,Food & Dining,175,Cash,Swiggy order
+2026-01-06,Transport,,UPI,Ola ride
+2026-06-27,Food & Dining,293,UPI,Lunch at canteen
+2026-03-27,Groceries,126,Credit Card,BigBasket order
+2026-04-11,Groceries,448,UPI,Vegetables and fruits
+2026-02-26,Transport,21,Cash,Auto rickshaw
+2026-03-26,Transport,244,UPI,Metro card recharge
+2026-05-04,Food & Dining,410,Cash,Dinner outside
+2026-04-25,Groceries,501,Debit Card,BigBasket order
+2026-02-28,Food & Dining,182,UPI,Dinner outside
+2026-06-23,Food & Dining,206,Cash,Snacks
+2026-06-28,Food & Dining,272,Cash,Lunch at canteen
+2026-05-10,Health,700,UPI,Doctor visit
+2026-06-19,Food & Dining,217,Cash,Tea and samosa
+2026-03-18,Groceries,833,Credit Card,Weekly groceries
+2026-04-27,Groceries,154,UPI,Vegetables and fruits
+2026-03-06,Transport,235,Cash,Uber ride
+2026-03-13,Shopping,2611,Debit Card,Clothes
+2026-04-05,Entertainment,-250,UPI,Movie tickets
+2026-04-05,Transport,189,UPI,Petrol
+2026-06-30,Groceries,137,UPI,Blinkit order
+2026-01-02,Entertainment,645,UPI,Gaming top-up
+2026-04-08,Food & Dining,302,UPI,Tea and samosa
+2026-02-28,Food & Dining,58,Credit Card,Coffee with friends
+2026-04-15,Groceries,860,UPI,Vegetables and fruits
+2026-04-15,Groceries,814,Credit Card,Weekly groceries
+2026-01-16,Food & Dining,306,Credit Card,Swiggy order
+2026-03-01,Groceries,192,UPI,Weekly groceries
+2026-05-22,Transport,289,UPI,Petrol
+2026-04-17,Food & Dining,68,Debit Card,Zomato order
+2026-05-27,Health,1251,UPI,Pharmacy
+2026-06-15,Food & Dining,144,UPI,Swiggy order
+2026-03-04,Transport,25,UPI,Auto rickshaw
+2026-02-11,Transport,136,UPI,Auto rickshaw
+2026-05-31,Shopping,2193,Debit Card,Stationery
+2026-01-17,Transport,59,Cash,Petrol
+2026-02-13,Transport,117,UPI,Ola ride
+2026-06-13,Transport,57,UPI,Bus ticket
+2026-02-25,Food & Dining,179,Credit Card,Dinner outside
+2026-04-20,Entertainment,527,UPI,Concert ticket
+2026-04-30,Entertainment,783,Credit Card,Concert ticket
+2026-03-05,Subscriptions,119,Credit Card,Spotify Premium
+2026-03-27,Education,402,UPI,Coding bootcamp module
+2026-05-12,Utilities,599,,Wi-Fi bill
+2026-01-28,Transport,48,UPI,Ola ride
+2026-06-22,Groceries,424,UPI,
+2026-02-09,Food & Dining,169,UPI,Dinner outside
+2026-05-16,Shopping,3409,Credit Card,Amazon order
+2026-02-14,Transport,160,UPI,Metro card recharge
+2026-03-28,Transport,255,UPI,Petrol
+2026-02-10,Transport,78,Cash,Metro card recharge
+2026-03-14,Food & Dining,61,UPI,Tea and samosa
+2026-01-07,Utilities,660,UPI,Electricity bill
+2026-01-20,Transport,197,UPI,Ola ride
+2026-01-17,Food & Dining,85,UPI,Coffee with friends
+2026-03-21,Transport,66,Cash,Petrol
+2026-03-07,Utilities,814,Net Banking,Electricity bill
+2026-06-03,Food & Dining,190,Cash,Tea and samosa
+2026-06-16,Food & Dining,179,UPI,Coffee with friends
+2026-03-11,Groceries,377,Cash,Vegetables and fruits
+2026-04-18,Food & Dining,101,Credit Card,Tea and samosa
+2026-04-15,Food & Dining,250,Cash,Dinner outside
+2026-03-05,Health,397,Credit Card,Lab test
+2026-02-20,Food & Dining,208,UPI,Dinner outside
+2026-02-01,Groceries,526,Cash,Vegetables and fruits
+2026-04-23,Shopping,492,Credit Card,Shoes
+2026-05-17,Education,,Net Banking,Coding bootcamp module
+2026-05-21,Groceries,688,Cash,Weekly groceries
+2026-03-26,Transport,169,UPI,Bus ticket
+2026-01-25,food & dining,298,UPI,Snacks
+2026-06-16,Health,612,Cash,Lab test
+2026-04-10,Food & Dining,116,UPI,Tea and samosa
+2026-04-28,Transport,136,Cash,Bus ticket
+2026-06-05,Subscriptions,119,UPI,Spotify Premium
+2026-01-02,Transport,35,Cash,Auto rickshaw
+2026-04-28,Transport,47,UPI,
+2026-06-16,Shopping,1004,UPI,
+2026-02-21,Education,470,Credit Card,Exam fee
+2026-04-16,Entertainment,394,Debit Card,Concert ticket
+2026-06-10,Food & Dining,280,UPI,Snacks
+2026-04-12,Health,833,Credit Card,Doctor visit
+2026-03-22,Food & Dining,331,UPI,Snacks
+2026-02-20,Food & Dining,234,Cash,Snacks
+2026-04-13,Education,578,UPI,Coding bootcamp module
+2026-02-08,Food & Dining,50,UPI,Coffee with friends
+2026-01-30,Transport,240,UPI,Petrol
+2026-01-18,Groceries,493,Cash,Weekly groceries
+2026-05-03,Food & Dining,123,UPI,Swiggy order
+2026-04-05,Subscriptions,119,Debit Card,Spotify Premium
+2026-06-15,Food & Dining,147,UPI,Coffee with friends
+2026-01-17,Food & Dining,169,UPI,Swiggy order
+2026-05-25,Transport,38,UPI,Petrol
+2026-04-19,Food & Dining,249,Cash,Snacks
+2026-05-01,Rent,8000,Net Banking,Monthly room rent
+2026-03-16,Transport,78,UPI,Metro card recharge
+2026-06-10,Groceries,580,Cash,BigBasket order
+2026-03-07,Food & Dining,268,Cash,Coffee with friends
+2026-02-08,Groceries,163,Credit Card,Weekly groceries
+2026-03-06,Food & Dining,287,Debit Card,Lunch at canteen
+2026-03-04,transport,283,Debit Card,Bus ticket
+2026-01-05,Groceries,766,Credit Card,Milk and bread
+2026-02-09,Food & Dining,227,UPI,Snacks
+2026-01-09,Transport,90,UPI,Uber ride
+2026-03-14,Shopping,3200,Credit Card,Holi festival shopping
+2026-01-23,Transport,172,UPI,Petrol
+2026-06-22,Food & Dining,322,UPI,Lunch at canteen
+2026-06-28,Groceries,479,Debit Card,Vegetables and fruits
+2026-04-14,Education,713,Credit Card,Books
+2026-05-13,Transport,303,Cash,Uber ride
+2026-06-12,Utilities,599,Net Banking,Wi-Fi bill
+2026-04-21,Entertainment,785,Credit Card,Weekend outing
+2026-04-10,Subscriptions,299,Debit Card,Netflix plan
+2026-04-11,Food & Dining,229,UPI,Tea and samosa
+2026-05-24,Food & Dining,174,Cash,Lunch at canteen
+2026-06-20,Food & Dining,284,Debit Card,Tea and samosa
+2026-04-27,Groceries,720,UPI,Weekly groceries
+2026-06-29,Food & Dining,265,UPI,Swiggy order
+2026-05-21,Food & Dining,117,Credit Card,Zomato order
+2026-05-28,Education,1163,Debit Card,Exam fee
+2026-05-04,food & dining,196,UPI,Tea and samosa
+2026-04-05,Food & Dining,134,UPI,Zomato order
+2026-03-16,Food & Dining,86,UPI,Snacks
+2026-01-25,Food & Dining,281,Cash,Coffee with friends
+2026-04-14,Food & Dining,348,UPI,Tea and samosa
+2026-04-01,Rent,8000,Net Banking,Monthly room rent
+2026-05-31,  Groceries ,532,UPI,Weekly groceries
+2026-04-30,Food & Dining,243,UPI,Swiggy order
+2026-02-23,Transport,84,UPI,Auto rickshaw
+2026-02-01,Transport,198,UPI,Uber ride
+2026-01-01,Groceries,397,Cash,BigBasket order
+2026-02-01,Food & Dining,102,Credit Card,Snacks
+2026-02-12,Entertainment,570,UPI,Concert ticket
+2026-04-09,Food & Dining,260,Cash,Dinner outside
+2026-01-19,Transport,45,Credit Card,Bus ticket
+2026-05-02,Food & Dining,138,Cash,Coffee with friends
+2026-02-16,transport,59,Cash,Metro card recharge
+2026-02-01,Food & Dining,267,Credit Card,Coffee with friends
+2026-05-02,Transport,77,Cash,Metro card recharge
+2026-04-24,Education,1473,UPI,Coding bootcamp module
+2026-01-09,Transport,166,UPI,Ola ride
+2026-06-05,Food & Dining,167,Cash,Snacks
+2026-02-15,Utilities,299,Net Banking,Mobile recharge
+2026-05-09,Food & Dining,183,Cash,Coffee with friends
+2026-03-19,Food & Dining,378,UPI,Coffee with friends
+2026-06-11,Groceries,,Credit Card,Vegetables and fruits
+2026-03-20,Food & Dining,57,UPI,Lunch at canteen
+2026-03-05,Entertainment,207,Credit Card,Weekend outing
+2026-05-30,Entertainment,774,Credit Card,Gaming top-up
+2026-06-28,Transport,167,UPI,Auto rickshaw
+2026-06-07,Groceries,490,UPI,Weekly groceries
+2026-04-25,Shopping,559,Debit Card,Clothes
+2026-02-04,Shopping,714,UPI,Phone accessories
+2026-02-01,Transport,103,UPI,Petrol
+2026-03-24,Food & Dining,305,Debit Card,Lunch at canteen
+2026-03-31,Food & Dining,395,UPI,Snacks
+2026-02-07,Utilities,1247,UPI,Electricity bill
+2026-03-28,Groceries,797,Credit Card,Milk and bread
+2026-03-21,Transport,248,UPI,Auto rickshaw
+2026-02-07,Transport,159,UPI,Metro card recharge
+2026-02-01,Rent,8000,Net Banking,Monthly room rent
+2026-06-18,Entertainment,757,Credit Card,Movie tickets
+2026-04-21,Food & Dining,323,Cash,Coffee with friends
+2026-04-27,Transport,209,UPI,Metro card recharge
+2026-01-13,Food & Dining,235,UPI,Swiggy order
+2026-06-05,Food & Dining,274,UPI,Dinner outside
+2026-03-15,Utilities,299,UPI,Mobile recharge
+2026-05-10,Subscriptions,299,Credit Card,Netflix plan
+2026-04-01,Food & Dining,162,UPI,Zomato order
+2026-05-23,Groceries,717,Cash,BigBasket order
+2026-06-16,Transport,140,Cash,Uber ride
+2026-04-30,Transport,123,UPI,Auto rickshaw
+2026-05-31,Health,947,UPI,Lab test
+2026-03-11,Food & Dining,388,Credit Card,Lunch at canteen
+2026-03-05,Food & Dining,90,UPI,Snacks
+2026-03-12,Food & Dining,132,UPI,Swiggy order
+2026-06-26,Entertainment,N/A,UPI,Movie tickets
+2026-02-21,Transport,136,UPI,Bus ticket
+2026-02-15,Food & Dining,314,Cash,Dinner outside
+2026-06-13,Groceries,N/A,UPI,Vegetables and fruits
+2026-04-12,Utilities,599,Credit Card,Wi-Fi bill
+2026-03-01,Entertainment,628,Debit Card,Concert ticket
+2026-02-11,Food & Dining,60,Debit Card,Snacks
+2026-01-12,Groceries,229,UPI,Blinkit order
+2026-03-29,Entertainment,812,Credit Card,Bowling with friends
+unknown,Transport,196,UPI,Auto rickshaw
+2026-02-24,Transport,135,Cash,Uber ride
+2026-05-05,Subscriptions,119,Credit Card,Spotify Premium
+2026-06-21,Shopping,678,Credit Card,Phone accessories
+2026-02-22,Groceries,381,UPI,BigBasket order
